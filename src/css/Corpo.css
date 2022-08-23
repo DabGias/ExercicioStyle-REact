@@ -1,0 +1,16 @@
+main {
+    text-align: justify;
+}
+
+main p {
+    text-indent: 20px;
+    margin: 20px 200px;
+}
+
+.divImagem {
+    text-align: center;
+}
+
+.imagem {
+    width: 50%;
+}
